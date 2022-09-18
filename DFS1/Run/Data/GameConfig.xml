@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameConfig
+    windowAspect="2.0"
+    isFullscreen="false"
+    windowTitle="ClothSim2D"
+    devconsoleDefaultFont="Data/Fonts/MyFixedFont"
+    devconsoleFontAspect="1.0"
+    devconsoleTextHeight="25.0"
+    devconsoleMaxLines="30"
+    devconsoleMaxCommandHistory="128"
+    worldSize="200.0,100.0"
+    screenSize="1600.0,800.0"
+    defaultCameraFov="60.0"
+    defaultCameraNearZ="0.1"
+    defaultCameraFarZ="100.0"
+    clothTexture="Data/Images/Carpet.png"
+/>

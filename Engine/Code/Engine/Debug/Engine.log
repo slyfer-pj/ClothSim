@@ -1,0 +1,10 @@
+﻿  Rgba8.cpp
+  Vertex_PCU.cpp
+  Vec2.cpp
+  Camera.cpp
+D:\p4\Personal\SD\Engine\Code\Engine\Renderer\Camera.cpp(3,63): warning C4458: declaration of 'topRight' hides class member
+D:\p4\Personal\SD\Engine\Code\Engine\Renderer\Camera.hpp(8,7): message : see declaration of 'Camera::topRight'
+  Renderer.cpp
+D:\p4\Personal\SD\Engine\Code\Engine\Renderer\Renderer.cpp(37,40): warning C4100: 'camera': unreferenced formal parameter
+  Generating Code...
+  Engine.vcxproj -> D:\p4\Personal\SD\MathUnitTests\Debug\Engine.lib

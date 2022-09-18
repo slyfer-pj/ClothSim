@@ -1,0 +1,54 @@
+<Plant>
+  <Points>
+    <Point pos="10.0, 10.0" pinned="true" />
+    <Point pos="10.0, 20.0" pinned="false" />
+    <Point pos="20.0, 20.0" pinned="false" />
+  </Points>
+  <Constraints>
+    <Constraint pointAIndex="0" pointBIndex="1" />
+    <Constraint pointAIndex="0" pointBIndex="2" />
+  </Constraints>
+</Plant>
+
+<!--<Plant>
+  <Points>
+    <Point pos="10.0, 10.0" pinned="true" />
+    <Point pos="20.0, 10.0" pinned="true" />
+    <Point pos="30.0, 10.0" pinned="true" />
+    <Point pos="12.0, 18.0" pinned="false" />
+    <Point pos="20.0, 20.0" pinned="false" />
+    <Point pos="28.0, 18.0" pinned="false" />
+    <Point pos="14.0, 28.0" pinned="false" />
+    <Point pos="20.0, 30.0" pinned="false" />
+    <Point pos="26.0, 28.0" pinned="false" />
+    <Point pos="16.0, 38.0" pinned="false" />
+    <Point pos="20.0, 40.0" pinned="false" />
+    <Point pos="24.0, 38.0" pinned="false" />
+  </Points>
+  <Constraints>
+    <Constraint pointAIndex="0" pointBIndex="1" />
+    <Constraint pointAIndex="0" pointBIndex="3" />
+    <Constraint pointAIndex="1" pointBIndex="4" />
+    <Constraint pointAIndex="1" pointBIndex="2" />
+    <Constraint pointAIndex="2" pointBIndex="5" />
+    <Constraint pointAIndex="3" pointBIndex="6" />
+    <Constraint pointAIndex="3" pointBIndex="4" />
+    <Constraint pointAIndex="4" pointBIndex="7" />
+    <Constraint pointAIndex="4" pointBIndex="5" />
+    <Constraint pointAIndex="5" pointBIndex="8" />
+    <Constraint pointAIndex="6" pointBIndex="9" />
+    <Constraint pointAIndex="6" pointBIndex="7" />
+    <Constraint pointAIndex="7" pointBIndex="10" />
+    <Constraint pointAIndex="7" pointBIndex="8" />
+    <Constraint pointAIndex="8" pointBIndex="11" />
+    <Constraint pointAIndex="9" pointBIndex="10" />
+    <Constraint pointAIndex="11" pointBIndex="10" />
+    <Constraint pointAIndex="0" pointBIndex="4" />
+    <Constraint pointAIndex="2" pointBIndex="4" />
+    <Constraint pointAIndex="3" pointBIndex="7" />
+    <Constraint pointAIndex="5" pointBIndex="7" />
+    <Constraint pointAIndex="6" pointBIndex="10" />
+    <Constraint pointAIndex="8" pointBIndex="10" />
+  </Constraints>
+</Plant>-->
+
